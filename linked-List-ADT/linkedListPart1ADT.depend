@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1632865746 source:c:\dokumen\fasilkom\strukdat\kode\linkedlistpart1adt\simplelist.cpp
+	"simpleList.h"
+
+1634176792 c:\dokumen\fasilkom\strukdat\kode\linkedlistpart1adt\simplelist.h
+	<stdio.h>
+	<stdlib.h>
+
+1632865927 source:c:\dokumen\fasilkom\strukdat\kode\linkedlistpart1adt\main.cpp
+	<iostream>
+	"simpleList.h"
+
+1634547311 source:g:\my drive\kuliah\coret_code\c++\coret\linkedlistpart1adt\main.cpp
+	<iostream>
+	"simpleList.h"
+
+1634547273 g:\my drive\kuliah\coret_code\c++\coret\linkedlistpart1adt\simplelist.h
+	<stdio.h>
+	<stdlib.h>
+
+1634547268 source:g:\my drive\kuliah\coret_code\c++\coret\linkedlistpart1adt\simplelist.cpp
+	"simpleList.h"
+
+1634603965 source:g:\my drive\kuliah\coret_code\c++\coret\share\linkedlistpart1adt\main.cpp
+	<iostream>
+	"simpleList.h"
+
+1634603840 g:\my drive\kuliah\coret_code\c++\coret\share\linkedlistpart1adt\simplelist.h
+	<stdio.h>
+	<stdlib.h>
+
+1634616585 source:d:\my repo\struktur data\linkedlistpart1adt\linkedlistpart1adt\main.cpp
+	<iostream>
+	"simpleList.h"
+
+1634616477 d:\my repo\struktur data\linkedlistpart1adt\linkedlistpart1adt\simplelist.h
+	<stdio.h>
+	<stdlib.h>
+
+1634616585 source:d:\my repo\struktur data\linkedlistpart1adt\linkedlistpart1adt\simplelist.cpp
+	"simpleList.h"
+
